@@ -1,0 +1,1213 @@
+Archive member included to satisfy reference by file (symbol)
+
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              cowboyTIMER_Program.o (__udivmodsi4)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              CLCD_Programe.o (__divmodsi4)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              Simon_Game.o (__tablejump2__)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              2COW_BOY.o (__do_copy_data)
+g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              2COW_BOY.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+j                   0x2               COW_BOY.o
+i                   0x2               2COW_BOY.o
+KEY_VALUE           0x1               2COW_BOY.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 2COW_BOY.o
+ .data          0x00000000        0x0 2COW_BOY.o
+ .bss           0x00000000        0x0 2COW_BOY.o
+ .text          0x00000000        0x0 Buzzer_Program.o
+ .data          0x00000000        0x0 Buzzer_Program.o
+ .bss           0x00000000        0x0 Buzzer_Program.o
+ .text.Buzzer_PowerON
+                0x00000000        0xc Buzzer_Program.o
+ .text          0x00000000        0x0 CLCD_Programe.o
+ .data          0x00000000        0x0 CLCD_Programe.o
+ .bss           0x00000000        0x0 CLCD_Programe.o
+ .text          0x00000000        0x0 cowboyTIMER_Program.o
+ .data          0x00000000        0x0 cowboyTIMER_Program.o
+ .bss           0x00000000        0x0 cowboyTIMER_Program.o
+ .data.seg      0x00000000       0xc8 cowboyTIMER_Program.o
+ .text          0x00000000        0x0 COW_BOY.o
+ .data          0x00000000        0x0 COW_BOY.o
+ .bss           0x00000000        0x0 COW_BOY.o
+ .text          0x00000000        0x0 DIO_program.o
+ .data          0x00000000        0x0 DIO_program.o
+ .bss           0x00000000        0x0 DIO_program.o
+ .text.DIO_u8GetPortValue
+                0x00000000       0x44 DIO_program.o
+ .text          0x00000000        0x0 GLOBAL_INT.o
+ .data          0x00000000        0x0 GLOBAL_INT.o
+ .bss           0x00000000        0x0 GLOBAL_INT.o
+ .text.GLOBAL_INT
+                0x00000000        0x4 GLOBAL_INT.o
+ .debug_info    0x00000000       0x78 GLOBAL_INT.o
+ .debug_abbrev  0x00000000       0x44 GLOBAL_INT.o
+ .debug_aranges
+                0x00000000       0x20 GLOBAL_INT.o
+ .debug_ranges  0x00000000       0x10 GLOBAL_INT.o
+ .debug_line    0x00000000       0x43 GLOBAL_INT.o
+ .debug_str     0x00000000      0x16e GLOBAL_INT.o
+ .comment       0x00000000       0x31 GLOBAL_INT.o
+ .debug_frame   0x00000000       0x24 GLOBAL_INT.o
+ .text          0x00000000        0x0 INTERRUPT_Program.o
+ .data          0x00000000        0x0 INTERRUPT_Program.o
+ .bss           0x00000000        0x0 INTERRUPT_Program.o
+ .text.EXIT_u8IntSetsenseControl
+                0x00000000       0xe4 INTERRUPT_Program.o
+ .text.EXIT_u8IntEnable
+                0x00000000       0x2e INTERRUPT_Program.o
+ .text.EXIT_u8IntDisable
+                0x00000000       0x2e INTERRUPT_Program.o
+ .debug_info    0x00000000      0x15a INTERRUPT_Program.o
+ .debug_abbrev  0x00000000       0xa9 INTERRUPT_Program.o
+ .debug_loc     0x00000000      0x29b INTERRUPT_Program.o
+ .debug_aranges
+                0x00000000       0x30 INTERRUPT_Program.o
+ .debug_ranges  0x00000000       0x20 INTERRUPT_Program.o
+ .debug_line    0x00000000      0x248 INTERRUPT_Program.o
+ .debug_str     0x00000000      0x208 INTERRUPT_Program.o
+ .comment       0x00000000       0x31 INTERRUPT_Program.o
+ .debug_frame   0x00000000       0x44 INTERRUPT_Program.o
+ .text          0x00000000        0x0 KEYBAD_Programe.o
+ .data          0x00000000        0x0 KEYBAD_Programe.o
+ .bss           0x00000000        0x0 KEYBAD_Programe.o
+ .text.KPD_PowerON
+                0x00000000       0x12 KEYBAD_Programe.o
+ .text.KPD_u8GetPressedKey
+                0x00000000       0xba KEYBAD_Programe.o
+ .rodata.Local_u8KPDARR.1644
+                0x00000000       0x10 KEYBAD_Programe.o
+ .rodata.KPDRowArr.1645
+                0x00000000        0x4 KEYBAD_Programe.o
+ .rodata.KPDColumnArr.1646
+                0x00000000        0x4 KEYBAD_Programe.o
+ .debug_info    0x00000000      0x274 KEYBAD_Programe.o
+ .debug_abbrev  0x00000000       0xda KEYBAD_Programe.o
+ .debug_loc     0x00000000      0x12d KEYBAD_Programe.o
+ .debug_aranges
+                0x00000000       0x28 KEYBAD_Programe.o
+ .debug_ranges  0x00000000       0x18 KEYBAD_Programe.o
+ .debug_line    0x00000000       0xfe KEYBAD_Programe.o
+ .debug_str     0x00000000      0x25c KEYBAD_Programe.o
+ .comment       0x00000000       0x31 KEYBAD_Programe.o
+ .debug_frame   0x00000000       0x64 KEYBAD_Programe.o
+ .text          0x00000000        0x0 keys.o
+ .data          0x00000000        0x0 keys.o
+ .bss           0x00000000        0x0 keys.o
+ .text          0x00000000        0x0 Leds_Program.o
+ .data          0x00000000        0x0 Leds_Program.o
+ .bss           0x00000000        0x0 Leds_Program.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 ping_game.o
+ .data          0x00000000        0x0 ping_game.o
+ .bss           0x00000000        0x0 ping_game.o
+ .text.player2_move
+                0x00000000      0x116 ping_game.o
+ .data.status   0x00000000        0x1 ping_game.o
+ .text          0x00000000        0x0 SevenSegments_Program.o
+ .data          0x00000000        0x0 SevenSegments_Program.o
+ .bss           0x00000000        0x0 SevenSegments_Program.o
+ .text          0x00000000        0x0 Simon_Game.o
+ .data          0x00000000        0x0 Simon_Game.o
+ .bss           0x00000000        0x0 Simon_Game.o
+ .text.Level_5  0x00000000       0x2a Simon_Game.o
+ .bss.num       0x00000000        0x2 Simon_Game.o
+ .text          0x00000000        0x0 specialcahrs.o
+ .data          0x00000000        0x0 specialcahrs.o
+ .bss           0x00000000        0x0 specialcahrs.o
+ .data.customCharfood
+                0x00000000        0x8 specialcahrs.o
+ .data.customChardll
+                0x00000000        0x8 specialcahrs.o
+ .data.customCharull
+                0x00000000        0x8 specialcahrs.o
+ .data.customChardrr
+                0x00000000        0x8 specialcahrs.o
+ .text          0x00000000        0x0 TIMER_Program.o
+ .data          0x00000000        0x0 TIMER_Program.o
+ .bss           0x00000000        0x0 TIMER_Program.o
+ .text.Read_Timer
+                0x00000000       0x46 TIMER_Program.o
+ .text.Timer0_NormalMode_Init
+                0x00000000       0x20 TIMER_Program.o
+ .text.Timer1_NormalMode_Init
+                0x00000000       0x26 TIMER_Program.o
+ .text.Timer0_PWMMode_Init
+                0x00000000       0x42 TIMER_Program.o
+ .text.Timer1_PWMMode_Init
+                0x00000000       0x4e TIMER_Program.o
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD 2COW_BOY.o
+LOAD Buzzer_Program.o
+LOAD CLCD_Programe.o
+LOAD cowboyTIMER_Program.o
+LOAD COW_BOY.o
+LOAD DIO_program.o
+LOAD GLOBAL_INT.o
+LOAD INTERRUPT_Program.o
+LOAD KEYBAD_Programe.o
+LOAD keys.o
+LOAD Leds_Program.o
+LOAD main.o
+LOAD ping_game.o
+LOAD SevenSegments_Program.o
+LOAD Simon_Game.o
+LOAD specialcahrs.o
+LOAD TIMER_Program.o
+START GROUP
+LOAD g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x381c
+ *(.vectors)
+ .vectors       0x00000000       0x54 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.Level_Init
+                0x00000054       0x14 Simon_Game.o
+ .progmem.gcc_sw_table.Simon_Say
+                0x00000068       0x14 Simon_Game.o
+                0x0000007c                . = ALIGN (0x2)
+                0x0000007c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000007c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000007c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000007c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000007c                __ctors_start = .
+ *(.ctors)
+                0x0000007c                __ctors_end = .
+                0x0000007c                __dtors_start = .
+ *(.dtors)
+                0x0000007c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000007c        0x0 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000007c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000007c        0xc G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000088       0x16 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000088                __do_copy_data
+ .init4         0x0000009e       0x10 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000009e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000ae        0x8 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000b6        0x4 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x000000b6                __vector_1
+                0x000000b6                __vector_12
+                0x000000b6                __bad_interrupt
+                0x000000b6                __vector_6
+                0x000000b6                __vector_3
+                0x000000b6                __vector_13
+                0x000000b6                __vector_17
+                0x000000b6                __vector_19
+                0x000000b6                __vector_5
+                0x000000b6                __vector_4
+                0x000000b6                __vector_9
+                0x000000b6                __vector_2
+                0x000000b6                __vector_15
+                0x000000b6                __vector_8
+                0x000000b6                __vector_14
+                0x000000b6                __vector_16
+                0x000000b6                __vector_18
+                0x000000b6                __vector_20
+                0x000000ba                . = ALIGN (0x2)
+ *(.text.*)
+ .text.INIT_POSITION3
+                0x000000ba       0x1e 2COW_BOY.o
+                0x000000ba                INIT_POSITION3
+ .text.move_ychar13
+                0x000000d8       0x98 2COW_BOY.o
+                0x000000d8                move_ychar13
+ .text.move_xchar13
+                0x00000170      0x154 2COW_BOY.o
+                0x00000170                move_xchar13
+ .text.GAME_OVER3
+                0x000002c4       0x58 2COW_BOY.o
+                0x000002c4                GAME_OVER3
+ .text.won3     0x0000031c       0xa4 2COW_BOY.o
+                0x0000031c                won3
+ .text.BUZZ3    0x000003c0       0x20 2COW_BOY.o
+                0x000003c0                BUZZ3
+ .text.BUZZ23   0x000003e0       0x26 2COW_BOY.o
+                0x000003e0                BUZZ23
+ .text.point3   0x00000406      0x14c 2COW_BOY.o
+                0x00000406                point3
+ .text.game3    0x00000552       0xe2 2COW_BOY.o
+                0x00000552                game3
+ .text.COW_BOY2
+                0x00000634       0x1a 2COW_BOY.o
+                0x00000634                COW_BOY2
+ .text.Buzzer_Enable
+                0x0000064e      0x214 Buzzer_Program.o
+                0x0000064e                Buzzer_Enable
+ .text.CLCD_voidSendCommand
+                0x00000862       0x44 CLCD_Programe.o
+                0x00000862                CLCD_voidSendCommand
+ .text.CLCD_voidSendData
+                0x000008a6       0x44 CLCD_Programe.o
+                0x000008a6                CLCD_voidSendData
+ .text.CLCD_voidInit
+                0x000008ea       0x20 CLCD_Programe.o
+                0x000008ea                CLCD_voidInit
+ .text.CLCD_voidPrintString
+                0x0000090a       0x1a CLCD_Programe.o
+                0x0000090a                CLCD_voidPrintString
+ .text.CLCD_voidGoTOxy
+                0x00000924       0x2e CLCD_Programe.o
+                0x00000924                CLCD_voidGoTOxy
+ .text.CLCD_voidSendNumber
+                0x00000952       0xc0 CLCD_Programe.o
+                0x00000952                CLCD_voidSendNumber
+ .text.CLCD_ClearDisplay
+                0x00000a12        0x8 CLCD_Programe.o
+                0x00000a12                CLCD_ClearDisplay
+ .text.CLCD_PowerON
+                0x00000a1a       0x2c CLCD_Programe.o
+                0x00000a1a                CLCD_PowerON
+ .text.CLCD_voidSendSpecialChar
+                0x00000a46       0x54 CLCD_Programe.o
+                0x00000a46                CLCD_voidSendSpecialChar
+ .text.TIMER1_Init
+                0x00000a9a       0x1e cowboyTIMER_Program.o
+                0x00000a9a                TIMER1_Init
+ .text.TIMER_Delay_ms
+                0x00000ab8       0x20 cowboyTIMER_Program.o
+                0x00000ab8                TIMER_Delay_ms
+ .text.__vector_7
+                0x00000ad8       0x1e cowboyTIMER_Program.o
+                0x00000ad8                __vector_7
+ .text.TIMER0_Init
+                0x00000af6       0x2a cowboyTIMER_Program.o
+                0x00000af6                TIMER0_Init
+ .text.__vector_11
+                0x00000b20       0xe4 cowboyTIMER_Program.o
+                0x00000b20                __vector_11
+ .text.INIT_POSITION
+                0x00000c04       0x1e COW_BOY.o
+                0x00000c04                INIT_POSITION
+ .text.move_ychar1
+                0x00000c22       0x98 COW_BOY.o
+                0x00000c22                move_ychar1
+ .text.move_xchar1
+                0x00000cba      0x154 COW_BOY.o
+                0x00000cba                move_xchar1
+ .text.GAME_OVER
+                0x00000e0e       0x3a COW_BOY.o
+                0x00000e0e                GAME_OVER
+ .text.won      0x00000e48       0xb8 COW_BOY.o
+                0x00000e48                won
+ .text.BUZZ     0x00000f00       0x20 COW_BOY.o
+                0x00000f00                BUZZ
+ .text.BUZZ2    0x00000f20       0x26 COW_BOY.o
+                0x00000f20                BUZZ2
+ .text.point    0x00000f46      0x230 COW_BOY.o
+                0x00000f46                point
+ .text.pointmid
+                0x00001176      0x230 COW_BOY.o
+                0x00001176                pointmid
+ .text.pointhard
+                0x000013a6      0x230 COW_BOY.o
+                0x000013a6                pointhard
+ .text.game     0x000015d6      0x12a COW_BOY.o
+                0x000015d6                game
+ .text.COW_BOY  0x00001700       0x1a COW_BOY.o
+                0x00001700                COW_BOY
+ .text.DIO_u8SetPortValue
+                0x0000171a       0x34 DIO_program.o
+                0x0000171a                DIO_u8SetPortValue
+ .text.DIO_u8SetPinValue
+                0x0000174e      0x110 DIO_program.o
+                0x0000174e                DIO_u8SetPinValue
+ .text.DIO_u8SetPortDir
+                0x0000185e       0x34 DIO_program.o
+                0x0000185e                DIO_u8SetPortDir
+ .text.DIO_u8SetPinDir
+                0x00001892      0x110 DIO_program.o
+                0x00001892                DIO_u8SetPinDir
+ .text.DIO_u8GetPinValue
+                0x000019a2       0x84 DIO_program.o
+                0x000019a2                DIO_u8GetPinValue
+ .text.key      0x00001a26       0x9c keys.o
+                0x00001a26                key
+ .text.LEDS_PowerON
+                0x00001ac2        0xa Leds_Program.o
+                0x00001ac2                LEDS_PowerON
+ .text.Toogle_LED
+                0x00001acc       0x16 Leds_Program.o
+                0x00001acc                Toogle_LED
+ .text.Flashing_Led
+                0x00001ae2       0x6c Leds_Program.o
+                0x00001ae2                Flashing_Led
+ .text.Flashing_LedGroup
+                0x00001b4e       0x62 Leds_Program.o
+                0x00001b4e                Flashing_LedGroup
+ .text.menu_sound
+                0x00001bb0       0x36 main.o
+                0x00001bb0                menu_sound
+ .text.game_select
+                0x00001be6      0x29a main.o
+                0x00001be6                game_select
+ .text.main     0x00001e80        0x6 main.o
+                0x00001e80                main
+ .text.BUZZ1    0x00001e86       0x20 ping_game.o
+                0x00001e86                BUZZ1
+ .text.BUZZ21   0x00001ea6       0x26 ping_game.o
+                0x00001ea6                BUZZ21
+ .text.player2_movecc
+                0x00001ecc       0x4e ping_game.o
+                0x00001ecc                player2_movecc
+ .text.player1_move
+                0x00001f1a      0x126 ping_game.o
+                0x00001f1a                player1_move
+ .text.ball     0x00002040       0x44 ping_game.o
+                0x00002040                ball
+ .text.ping_pong
+                0x00002084       0x5a ping_game.o
+                0x00002084                ping_pong
+ .text.check_goal
+                0x000020de      0x1e4 ping_game.o
+                0x000020de                check_goal
+ .text.ball_move_player1
+                0x000022c2      0x3b6 ping_game.o
+                0x000022c2                ball_move_player1
+ .text.ball_move_player2
+                0x00002678      0x3a2 ping_game.o
+                0x00002678                ball_move_player2
+ .text.SevenSegments_Init
+                0x00002a1a       0x12 SevenSegments_Program.o
+                0x00002a1a                SevenSegments_Init
+ .text.SevenSegments_Enable
+                0x00002a2c       0x22 SevenSegments_Program.o
+                0x00002a2c                SevenSegments_Enable
+ .text.SevenSegments_Disable
+                0x00002a4e       0x22 SevenSegments_Program.o
+                0x00002a4e                SevenSegments_Disable
+ .text.SevenSegments_PowerON
+                0x00002a70       0x12 SevenSegments_Program.o
+                0x00002a70                SevenSegments_PowerON
+ .text.SevenSegments_DisplayDigit
+                0x00002a82        0xa SevenSegments_Program.o
+                0x00002a82                SevenSegments_DisplayDigit
+ .text.SvenSegments_SendNumber
+                0x00002a8c       0x7c SevenSegments_Program.o
+                0x00002a8c                SvenSegments_SendNumber
+ .text.Level_Init
+                0x00002b08      0x116 Simon_Game.o
+                0x00002b08                Level_Init
+ .text.Time_Out
+                0x00002c1e       0x28 Simon_Game.o
+                0x00002c1e                Time_Out
+ .text.Simon_Timer
+                0x00002c46       0x12 Simon_Game.o
+                0x00002c46                Simon_Timer
+ .text.Level_2  0x00002c58       0x40 Simon_Game.o
+                0x00002c58                Level_2
+ .text.Level_3  0x00002c98       0x30 Simon_Game.o
+                0x00002c98                Level_3
+ .text.Level_4  0x00002cc8       0x50 Simon_Game.o
+                0x00002cc8                Level_4
+ .text.Level_6  0x00002d18       0x32 Simon_Game.o
+                0x00002d18                Level_6
+ .text.Level_7  0x00002d4a       0x32 Simon_Game.o
+                0x00002d4a                Level_7
+ .text.Level_8  0x00002d7c       0x30 Simon_Game.o
+                0x00002d7c                Level_8
+ .text.Level_9  0x00002dac       0x36 Simon_Game.o
+                0x00002dac                Level_9
+ .text.Level_10
+                0x00002de2       0x30 Simon_Game.o
+                0x00002de2                Level_10
+ .text.Get_UserResponse
+                0x00002e12       0x8c Simon_Game.o
+                0x00002e12                Get_UserResponse
+ .text.Stop_SimonTimer
+                0x00002e9e        0xa Simon_Game.o
+                0x00002e9e                Stop_SimonTimer
+ .text.Level_1  0x00002ea8       0x3a Simon_Game.o
+                0x00002ea8                Level_1
+ .text.Simon_Say
+                0x00002ee2       0x4a Simon_Game.o
+                0x00002ee2                Simon_Say
+ .text.Level_Validity
+                0x00002f2c       0x5c Simon_Game.o
+                0x00002f2c                Level_Validity
+ .text.Simon_win
+                0x00002f88       0x34 Simon_Game.o
+                0x00002f88                Simon_win
+ .text.Simon_Loss
+                0x00002fbc       0x1c Simon_Game.o
+                0x00002fbc                Simon_Loss
+ .text.Restart_OR_Exit
+                0x00002fd8       0x5c Simon_Game.o
+                0x00002fd8                Restart_OR_Exit
+ .text.Show_LevelANDScore
+                0x00003034       0x4a Simon_Game.o
+                0x00003034                Show_LevelANDScore
+ .text.Simon_TimerInterfacing
+                0x0000307e       0xc2 Simon_Game.o
+                0x0000307e                Simon_TimerInterfacing
+ .text.Game     0x00003140       0xe4 Simon_Game.o
+                0x00003140                Game
+ .text.__vector_10
+                0x00003224       0x48 Simon_Game.o
+                0x00003224                __vector_10
+ .text.BUZZ11   0x0000326c       0x26 specialcahrs.o
+                0x0000326c                BUZZ11
+ .text.random_pair
+                0x00003292       0x5e specialcahrs.o
+                0x00003292                random_pair
+ .text.snake    0x000032f0      0x3bc specialcahrs.o
+                0x000032f0                snake
+ .text.SET_PRESCALER
+                0x000036ac       0x7c TIMER_Program.o
+                0x000036ac                SET_PRESCALER
+ .text.SET_ValueForTimer
+                0x00003728       0x42 TIMER_Program.o
+                0x00003728                SET_ValueForTimer
+ .text.Timer2_CTCMode_Init
+                0x0000376a       0x20 TIMER_Program.o
+                0x0000376a                Timer2_CTCMode_Init
+ .text.libgcc.div
+                0x0000378a       0x44 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000378a                __udivmodsi4
+ .text.libgcc.div
+                0x000037ce       0x2e g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x000037ce                __divmodsi4
+ .text.libgcc.div
+                0x000037fc       0x10 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x000037fc                __negsi2
+ .text.libgcc   0x0000380c        0xc g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000380c                __tablejump2__
+                0x00003818                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003818        0x0 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00003818                _exit
+                0x00003818                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003818        0x4 g:/program files/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000381c                _etext = .
+
+.data           0x00800060      0x19e load address 0x0000381c
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.shot3    0x00800060        0x8 2COW_BOY.o
+                0x00800060                shot3
+ .data.customChar33
+                0x00800068        0x8 2COW_BOY.o
+                0x00800068                customChar33
+ .data.customChar23
+                0x00800070        0x8 2COW_BOY.o
+                0x00800070                customChar23
+ .data.customChar13
+                0x00800078        0x8 2COW_BOY.o
+                0x00800078                customChar13
+ .data.y3       0x00800080        0x1 2COW_BOY.o
+                0x00800080                y3
+ .data.min3     0x00800081        0x1 2COW_BOY.o
+                0x00800081                min3
+ .data.shot2    0x00800082        0x8 COW_BOY.o
+                0x00800082                shot2
+ .data.shot     0x0080008a        0x8 COW_BOY.o
+                0x0080008a                shot
+ .data.customChar3
+                0x00800092        0x8 COW_BOY.o
+                0x00800092                customChar3
+ .data.customChar2
+                0x0080009a        0x8 COW_BOY.o
+                0x0080009a                customChar2
+ .data.customChar1
+                0x008000a2        0x8 COW_BOY.o
+                0x008000a2                customChar1
+ .data.y        0x008000aa        0x1 COW_BOY.o
+                0x008000aa                y
+ .data.min      0x008000ab        0x1 COW_BOY.o
+                0x008000ab                min
+ .data.temp     0x008000ac        0x1 ping_game.o
+ .data.player2  0x008000ad        0x8 ping_game.o
+                0x008000ad                player2
+ .data.player1  0x008000b5        0x8 ping_game.o
+                0x008000b5                player1
+ .data.ball_posit
+                0x008000bd        0x2 ping_game.o
+ .data.Ball     0x008000bf        0x8 ping_game.o
+                0x008000bf                Ball
+ .data.y2       0x008000c7        0x1 ping_game.o
+ .data.x2       0x008000c8        0x1 ping_game.o
+ .data.x1       0x008000c9        0x1 ping_game.o
+ .data.b.2019   0x008000ca        0x1 Simon_Game.o
+ .data.customCharfll
+                0x008000cb        0x8 specialcahrs.o
+                0x008000cb                customCharfll
+ .data.customCharurr
+                0x008000d3        0x8 specialcahrs.o
+                0x008000d3                customCharurr
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x008000db        0x8 main.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x008000e3       0x53 2COW_BOY.o
+ .rodata.str1.1
+                0x00800136       0x2e COW_BOY.o
+                                 0x55 (size before relaxing)
+ .rodata.str1.1
+                0x00800164       0x3b main.o
+ .rodata.str1.1
+                0x0080019f       0x19 ping_game.o
+ .rodata.str1.1
+                0x008001b8       0x46 Simon_Game.o
+ .rodata.str1.1
+                0x008001fe        0xa specialcahrs.o
+ *(.gnu.linkonce.r*)
+                0x00800208                . = ALIGN (0x2)
+                0x00800208                _edata = .
+                0x00800208                PROVIDE (__data_end, .)
+
+.bss            0x008001fe       0x3c
+                0x008001fe                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.y23       0x008001fe        0x1 2COW_BOY.o
+                0x008001fe                y23
+ .bss.x23       0x008001ff        0x1 2COW_BOY.o
+                0x008001ff                x23
+ .bss.x3        0x00800200        0x1 2COW_BOY.o
+                0x00800200                x3
+ .bss.out_flag3
+                0x00800201        0x1 2COW_BOY.o
+                0x00800201                out_flag3
+ .bss.game_over_flag3
+                0x00800202        0x1 2COW_BOY.o
+                0x00800202                game_over_flag3
+ .bss.max3      0x00800203        0x1 2COW_BOY.o
+                0x00800203                max3
+ .bss.game_End3
+                0x00800204        0x1 2COW_BOY.o
+                0x00800204                game_End3
+ .bss.time.1677
+                0x00800205        0x1 cowboyTIMER_Program.o
+ .bss.counter.1676
+                0x00800206        0x2 cowboyTIMER_Program.o
+ .bss.timer_flag
+                0x00800208        0x1 cowboyTIMER_Program.o
+                0x00800208                timer_flag
+ .bss.game_time_seconds
+                0x00800209        0x4 cowboyTIMER_Program.o
+                0x00800209                game_time_seconds
+ .bss.game_time
+                0x0080020d        0x4 cowboyTIMER_Program.o
+                0x0080020d                game_time
+ .bss.y2        0x00800211        0x1 COW_BOY.o
+                0x00800211                y2
+ .bss.x2        0x00800212        0x1 COW_BOY.o
+                0x00800212                x2
+ .bss.x         0x00800213        0x1 COW_BOY.o
+                0x00800213                x
+ .bss.out_flag  0x00800214        0x1 COW_BOY.o
+                0x00800214                out_flag
+ .bss.game_over_flag
+                0x00800215        0x1 COW_BOY.o
+                0x00800215                game_over_flag
+ .bss.game_End  0x00800216        0x1 COW_BOY.o
+                0x00800216                game_End
+ .bss.value.1899
+                0x00800217        0x1 main.o
+ .bss.erase     0x00800218        0x8 ping_game.o
+                0x00800218                erase
+ .bss.game_End2
+                0x00800220        0x1 ping_game.o
+                0x00800220                game_End2
+ .bss.press_key
+                0x00800221        0x1 ping_game.o
+ .bss.result2   0x00800222        0x1 ping_game.o
+ .bss.result1   0x00800223        0x1 ping_game.o
+ .bss.y1        0x00800224        0x1 ping_game.o
+ .bss.counter2.2021
+                0x00800225        0x2 Simon_Game.o
+ .bss.counter1.2020
+                0x00800227        0x2 Simon_Game.o
+ .bss.Tick      0x00800229        0x1 Simon_Game.o
+                0x00800229                Tick
+ .bss.left      0x0080022a        0x1 Simon_Game.o
+                0x0080022a                left
+ .bss.right     0x0080022b        0x1 Simon_Game.o
+                0x0080022b                right
+ .bss.customCharspace
+                0x0080022c        0x8 specialcahrs.o
+                0x0080022c                customCharspace
+ .bss.t         0x00800234        0x1 TIMER_Program.o
+                0x00800234                t
+ *(COMMON)
+ COMMON         0x00800235        0x3 2COW_BOY.o
+                0x00800235                i
+                0x00800237                KEY_VALUE
+ COMMON         0x00800238        0x2 COW_BOY.o
+                0x00800238                j
+                0x0080023a                PROVIDE (__bss_end, .)
+                0x0000381c                __data_load_start = LOADADDR (.data)
+                0x000039ba                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080023a        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080023a                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 2COW_BOY.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Buzzer_Program.o
+ .comment       0x00000030       0x31 CLCD_Programe.o
+ .comment       0x00000030       0x31 cowboyTIMER_Program.o
+ .comment       0x00000030       0x31 COW_BOY.o
+ .comment       0x00000030       0x31 DIO_program.o
+ .comment       0x00000030       0x31 keys.o
+ .comment       0x00000030       0x31 Leds_Program.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 ping_game.o
+ .comment       0x00000030       0x31 SevenSegments_Program.o
+ .comment       0x00000030       0x31 Simon_Game.o
+ .comment       0x00000030       0x31 specialcahrs.o
+ .comment       0x00000030       0x31 TIMER_Program.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x488
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x68 2COW_BOY.o
+ .debug_aranges
+                0x00000068       0x28 Buzzer_Program.o
+ .debug_aranges
+                0x00000090       0x60 CLCD_Programe.o
+ .debug_aranges
+                0x000000f0       0x40 cowboyTIMER_Program.o
+ .debug_aranges
+                0x00000130       0x78 COW_BOY.o
+ .debug_aranges
+                0x000001a8       0x48 DIO_program.o
+ .debug_aranges
+                0x000001f0       0x20 keys.o
+ .debug_aranges
+                0x00000210       0x38 Leds_Program.o
+ .debug_aranges
+                0x00000248       0x30 main.o
+ .debug_aranges
+                0x00000278       0x68 ping_game.o
+ .debug_aranges
+                0x000002e0       0x48 SevenSegments_Program.o
+ .debug_aranges
+                0x00000328       0xd8 Simon_Game.o
+ .debug_aranges
+                0x00000400       0x30 specialcahrs.o
+ .debug_aranges
+                0x00000430       0x58 TIMER_Program.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7907
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0xc18 2COW_BOY.o
+ .debug_info    0x000010fe      0x628 Buzzer_Program.o
+ .debug_info    0x00001726      0x629 CLCD_Programe.o
+ .debug_info    0x00001d4f      0x1d6 cowboyTIMER_Program.o
+ .debug_info    0x00001f25     0x14db COW_BOY.o
+ .debug_info    0x00003400      0x277 DIO_program.o
+ .debug_info    0x00003677      0x1ed keys.o
+ .debug_info    0x00003864      0x307 Leds_Program.o
+ .debug_info    0x00003b6b      0x91b main.o
+ .debug_info    0x00004486     0x168f ping_game.o
+ .debug_info    0x00005b15      0x3c3 SevenSegments_Program.o
+ .debug_info    0x00005ed8      0xff9 Simon_Game.o
+ .debug_info    0x00006ed1      0x774 specialcahrs.o
+ .debug_info    0x00007645      0x2c2 TIMER_Program.o
+
+.debug_abbrev   0x00000000     0x1bd5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3      0x27a 2COW_BOY.o
+ .debug_abbrev  0x0000071d      0x140 Buzzer_Program.o
+ .debug_abbrev  0x0000085d      0x1b3 CLCD_Programe.o
+ .debug_abbrev  0x00000a10      0x128 cowboyTIMER_Program.o
+ .debug_abbrev  0x00000b38      0x296 COW_BOY.o
+ .debug_abbrev  0x00000dce       0xb2 DIO_program.o
+ .debug_abbrev  0x00000e80       0xc3 keys.o
+ .debug_abbrev  0x00000f43      0x14e Leds_Program.o
+ .debug_abbrev  0x00001091      0x1d2 main.o
+ .debug_abbrev  0x00001263      0x1e5 ping_game.o
+ .debug_abbrev  0x00001448      0x177 SevenSegments_Program.o
+ .debug_abbrev  0x000015bf      0x2e6 Simon_Game.o
+ .debug_abbrev  0x000018a5      0x22d specialcahrs.o
+ .debug_abbrev  0x00001ad2      0x103 TIMER_Program.o
+
+.debug_line     0x00000000     0x4439
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000116      0x5b7 2COW_BOY.o
+ .debug_line    0x000006cd      0x429 Buzzer_Program.o
+ .debug_line    0x00000af6      0x324 CLCD_Programe.o
+ .debug_line    0x00000e1a      0x19b cowboyTIMER_Program.o
+ .debug_line    0x00000fb5      0xa35 COW_BOY.o
+ .debug_line    0x000019ea      0x42e DIO_program.o
+ .debug_line    0x00001e18       0xbd keys.o
+ .debug_line    0x00001ed5      0x1c4 Leds_Program.o
+ .debug_line    0x00002099      0x3e5 main.o
+ .debug_line    0x0000247e      0xb6e ping_game.o
+ .debug_line    0x00002fec      0x234 SevenSegments_Program.o
+ .debug_line    0x00003220      0xb98 Simon_Game.o
+ .debug_line    0x00003db8      0x37f specialcahrs.o
+ .debug_line    0x00004137      0x302 TIMER_Program.o
+
+.debug_frame    0x00000000      0xa50
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xd4 2COW_BOY.o
+ .debug_frame   0x000000d4       0x34 Buzzer_Program.o
+ .debug_frame   0x00000108      0x10c CLCD_Programe.o
+ .debug_frame   0x00000214       0xbc cowboyTIMER_Program.o
+ .debug_frame   0x000002d0      0x100 COW_BOY.o
+ .debug_frame   0x000003d0       0x74 DIO_program.o
+ .debug_frame   0x00000444       0x44 keys.o
+ .debug_frame   0x00000488       0x5c Leds_Program.o
+ .debug_frame   0x000004e4       0x5c main.o
+ .debug_frame   0x00000540       0xcc ping_game.o
+ .debug_frame   0x0000060c       0x84 SevenSegments_Program.o
+ .debug_frame   0x00000690      0x2a4 Simon_Game.o
+ .debug_frame   0x00000934       0x78 specialcahrs.o
+ .debug_frame   0x000009ac       0xa4 TIMER_Program.o
+
+.debug_str      0x00000000      0xd0e
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 G:/Program Files/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x35a 2COW_BOY.o
+                                0x395 (size before relaxing)
+ .debug_str     0x000004f0       0x4d Buzzer_Program.o
+                                0x220 (size before relaxing)
+ .debug_str     0x0000053d       0xda CLCD_Programe.o
+                                0x339 (size before relaxing)
+ .debug_str     0x00000617       0x65 cowboyTIMER_Program.o
+                                0x23b (size before relaxing)
+ .debug_str     0x0000067c       0xee COW_BOY.o
+                                0x3bc (size before relaxing)
+ .debug_str     0x0000076a       0x80 DIO_program.o
+                                0x255 (size before relaxing)
+ .debug_str     0x000007ea       0x20 keys.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x0000080a       0x58 Leds_Program.o
+                                0x24a (size before relaxing)
+ .debug_str     0x00000862       0x66 main.o
+                                0x2e9 (size before relaxing)
+ .debug_str     0x000008c8       0xb2 ping_game.o
+                                0x310 (size before relaxing)
+ .debug_str     0x0000097a       0x76 SevenSegments_Program.o
+                                0x2b0 (size before relaxing)
+ .debug_str     0x000009f0      0x1b0 Simon_Game.o
+                                0x46f (size before relaxing)
+ .debug_str     0x00000ba0       0xbb specialcahrs.o
+                                0x302 (size before relaxing)
+ .debug_str     0x00000c5b       0xb3 TIMER_Program.o
+                                0x27c (size before relaxing)
+
+.debug_loc      0x00000000     0x3915
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x324 2COW_BOY.o
+ .debug_loc     0x00000324      0x6a0 Buzzer_Program.o
+ .debug_loc     0x000009c4      0x503 CLCD_Programe.o
+ .debug_loc     0x00000ec7      0x12f cowboyTIMER_Program.o
+ .debug_loc     0x00000ff6      0x4f0 COW_BOY.o
+ .debug_loc     0x000014e6      0x52b DIO_program.o
+ .debug_loc     0x00001a11       0x93 keys.o
+ .debug_loc     0x00001aa4      0x1dc Leds_Program.o
+ .debug_loc     0x00001c80       0xff main.o
+ .debug_loc     0x00001d7f      0x764 ping_game.o
+ .debug_loc     0x000024e3      0x1ca SevenSegments_Program.o
+ .debug_loc     0x000026ad      0xb11 Simon_Game.o
+ .debug_loc     0x000031be      0x4a0 specialcahrs.o
+ .debug_loc     0x0000365e      0x2b7 TIMER_Program.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x4e0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x58 2COW_BOY.o
+ .debug_ranges  0x00000058       0xc0 Buzzer_Program.o
+ .debug_ranges  0x00000118       0x68 CLCD_Programe.o
+ .debug_ranges  0x00000180       0x30 cowboyTIMER_Program.o
+ .debug_ranges  0x000001b0       0x68 COW_BOY.o
+ .debug_ranges  0x00000218       0x38 DIO_program.o
+ .debug_ranges  0x00000250       0x10 keys.o
+ .debug_ranges  0x00000260       0x28 Leds_Program.o
+ .debug_ranges  0x00000288       0x20 main.o
+ .debug_ranges  0x000002a8       0x58 ping_game.o
+ .debug_ranges  0x00000300       0x38 SevenSegments_Program.o
+ .debug_ranges  0x00000338       0xf8 Simon_Game.o
+ .debug_ranges  0x00000430       0x68 specialcahrs.o
+ .debug_ranges  0x00000498       0x48 TIMER_Program.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(console.elf elf32-avr)
+LOAD linker stubs
